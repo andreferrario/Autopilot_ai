@@ -6,7 +6,15 @@
     <title>Pilota Automatico</title>
 </head>
 <body>
-    <canvas id="myCanvas"></canvas>
+    <canvas id="carCanvas"></canvas>
+    <div id="verticalButton">
+        <button  onclick="save()">💾</button>
+        <button discard()">🗑️</button>
+    </div>
+    <canvas id="networksCanvas"></canvas>
+
+    <script src="network.js"></script>
+    <script src="visualizer.js"></script>
     <script src="sensor.js"></script>
     <script src="utils.js"></script>
     <script src="road.js"></script>
