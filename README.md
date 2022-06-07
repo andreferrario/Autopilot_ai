@@ -8,3 +8,7 @@ Per visualizzare l'anteprima: [Pilota automatico](https://andreferrario.github.i
 
 
 
+
+
+https://user-images.githubusercontent.com/51402874/172348934-a63b66e6-9d8d-4af1-a125-4e1a42f6e32f.mp4
+
